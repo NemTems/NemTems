@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @NemTems
-- 👀 I’m interested in developing games on the Unity engine 
-- 🌱 I’m currently learning С# and other Unity things
 - 📫 How to reach me: kipriyanof64@gmail.com
 
 <!---
